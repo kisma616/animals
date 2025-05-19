@@ -1,0 +1,29 @@
+body{
+	background: url("https://qirim.su/wp-content/uploads/2020/02/reka-chernaja-piknik.jpg");
+	background-size: cover;
+	text-align: center;
+	color: #00FF00;
+	font-family: helverica ;
+}
+
+img{
+	width: 170px;
+	border: 5px solid white;
+	border-radius: 100px;
+	margin-top: 50px;
+}
+
+p{
+	font-size: 25px;
+}
+
+input{
+
+	font-size: 17px;
+}
+
+input [type="submit"] {
+
+	background: green;
+	color: white;
+}
